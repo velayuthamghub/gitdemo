@@ -1,0 +1,19 @@
+
+
+#! /bin/bash
+
+
+echo "hello world"
+hello there
+Hello World
+change through local 123
+=====
+change through remote
+
+jenkins-test
+jenkins -test2
+
+
+one More line of text.
+another conflict from remote
+local conflicting line
